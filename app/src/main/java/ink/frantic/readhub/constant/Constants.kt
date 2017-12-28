@@ -1,4 +1,4 @@
-package ink.frantic.readhub
+package ink.frantic.readhub.constant
 
 /**
  * 常量类
